@@ -1,0 +1,9 @@
+# Vim
+*.swp
+
+# Elm
+elm-stuff/
+repl-temp-*
+
+# Build artifacts
+dist/
